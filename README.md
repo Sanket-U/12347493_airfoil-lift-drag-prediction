@@ -40,3 +40,14 @@ The model processes a 102-dimensional input vector consisting of 50 (x,y) coordi
     ```bash
     python evaluate.py
     ```
+
+## ⏱️ Work Breakdown (Time Spent)
+| Task | Time Spent |
+| :--- | :--- |
+| Literature Review & Prior Work | 6 hours |
+| Dataset Exploration & Preprocessing | 9 hours |
+| Model Design & Baseline Implementation | 11 hours |
+| Hyperparameter Tuning & Optimization |  8 hours |
+| Evaluation, Visualization & Reporting | 6 hours |
+| **Total** | **40 hours** |
+"@
