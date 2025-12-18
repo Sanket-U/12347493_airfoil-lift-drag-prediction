@@ -11,7 +11,7 @@ We successfully trained a model on the **DeepLearWing** dataset (standardized to
 | Metric | Result ($R^2$) | Interpretation |
 | :--- | :--- | :--- |
 | **Lift ($C_l$)** | **0.99** | Near-perfect linear prediction. |
-| **Drag ($C_d$)** | **0.90** | **Beat the baseline** (improved from ~0.79). |
+| **Drag ($C_d$)** | **0.90** | **Beat the baseline** |
 
 ### Visualization of Results
 **1. Model Performance (Test Set)**
