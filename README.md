@@ -42,7 +42,7 @@ The model processes a 102-dimensional input vector consisting of 50 (x,y) coordi
     ```
 
 #  Work Breakdown (Time Spent)
-Total time invested aligns with the final report submission (~54 Hours).
+Total time invested.
 
 | Task | Time Spent |
 | :--- | :--- |
