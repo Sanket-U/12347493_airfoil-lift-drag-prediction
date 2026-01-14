@@ -41,13 +41,15 @@ The model processes a 102-dimensional input vector consisting of 50 (x,y) coordi
     python evaluate.py
     ```
 
-## ⏱️ Work Breakdown (Time Spent)
+#  Work Breakdown (Time Spent)
+Total time invested aligns with the final report submission (~54 Hours).
+
 | Task | Time Spent |
 | :--- | :--- |
-| Literature Review & Prior Work | 6 hours |
-| Dataset Exploration & Preprocessing | 9 hours |
+| Literature Review & Prior Work | 8 hours |
+| Dataset Exploration & Preprocessing | 10 hours |
 | Model Design & Baseline Implementation | 11 hours |
-| Hyperparameter Tuning & Optimization |  8 hours |
-| Evaluation, Visualization & Reporting | 6 hours |
-| **Total** | **40 hours** |
-"@
+| Hyperparameter Tuning ("Hacking Phase") | 12 hours |
+| Demo App Development | 6 hours |
+| Evaluation, Visualization & Reporting | 7 hours |
+| **Total** | **54 hours** |
